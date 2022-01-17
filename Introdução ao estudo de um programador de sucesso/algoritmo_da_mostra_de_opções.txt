@@ -1,0 +1,34 @@
+1-Algorimo da mostra de opções com Portugol-Studio
+
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("1-Abrir Netflix 2-Abrir Armazem Prime 3-Abrir HBO GO 4-Saindo do menu")
+		inteiro menu =0
+	
+		escolha(menu)
+		{
+			caso 1:   //Teste se o valor é igual a 1
+			escreva("OK! Abrir Netflix")
+			pare
+
+			caso 2: //Teste se o valor é igual a 2
+			escreva("OK! Abrir Armazem Prime")
+			pare
+
+			caso 3: //Teste se o valor é igual a 3
+			escreva("OK! Abrir HBO GO")
+			pare
+
+			caso 4: //Teste se o valor é igual a 4
+			escreva("OK! Saindo do menu...")
+			pare
+
+			caso contrario:
+			escreva("Voce deve escolher as opcoes: 1,2,3,")
+			pare
+		}
+	}
+}

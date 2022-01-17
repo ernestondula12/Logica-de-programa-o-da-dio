@@ -1,0 +1,13 @@
+
+Passos Para ser um programador Excelente
+
+a)Entender bem ou na integra a logica de programação
+b)Ter muita vontade e disponibilidade de aprdender a cada dia
+c)Ser muito curioso
+d)Entender na integra o que é uma abstração
+e)Praticar sempre o que se aprende todos os dia para manter o ritmo
+f)Não se apressar
+g)Ter foco e determinação
+h)Ter a arte de metacognição
+i)Não se comparar com nenhum dev ou programador
+j)Saber lidar com a sindrome do impostor pois que ela sempre te perseguirá 
