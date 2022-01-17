@@ -1,2 +1,2 @@
 # Logica-de-programa-o-da-dio
-Abstração
+## Passos para ser um bom programador
